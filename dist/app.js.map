@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;;;;IAAqB,QACnB,SADmB,KACnB,GAAc;wBADK,OACL;;AACZ,UAAQ,GAAR,CAAY,OAAZ,EADY;CAAd;;kBADmB","file":"app.js","sourcesContent":["export default class Scope {\n  constructor() {\n    console.log(\"hello\")\n  }\n}"],"sourceRoot":"/source/"}
