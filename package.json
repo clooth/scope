@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/clooth/scope/issues"
   },
-  "homepage": "https://github.com/clooth/scope#readme"
+  "homepage": "https://github.com/clooth/scope#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
 }
